@@ -1,12 +1,12 @@
 ---
-title: 'Absorption-type optical pH sensitive film based on immobilized purple cabbage pigment'
+title: 'Seebeck Coefficient Measurements of Polycrystalline and Highly Ordered Metal-Organic Framework Thin Films'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xin Chen
-  - Zhengtian Gu
+  - Xin Chen, Zhengbang Wang, Zeinab Mohamed Hassan, Pengtao Lin, Kai Zhang, Helmut Baumgart \* , and Engelbert Redel
+  
 
 date: '2012-07-21T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.snb.2012.12.094'
@@ -38,7 +38,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://iopscience.iop.org/article/10.1149/2.0161704jss/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,7 +60,7 @@ url_video: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - phsensor
+  - te_mof
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,3 +70,5 @@ projects:
 slides: ""
 ---
 
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

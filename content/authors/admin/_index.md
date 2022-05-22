@@ -19,7 +19,8 @@ bio: I am a Machine Learning Engineer at EY
 # Interests to show in About widget
 interests:
   - Deep Learning
-  - Sequential Recommendation System
+  - Recommendation System
+  - Behavior Science / Nudge Framework
 
 # Education to show in About widget
 education:
