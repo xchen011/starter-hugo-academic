@@ -3,7 +3,7 @@
 name: Xin Chen
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
 role: Machine Learning Engineer
@@ -24,10 +24,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical Engineering
+    - course: Ph.D. in Electrical Engineering
       institution: Old Dominion University
       year: 2017
-    
+    - course: M.S in Optics
+      institution: University of Shanghai for Science and Technology
+      year: 2013
+    - course: B.S. in Physics
+      institution: Anhui Normal University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -36,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:xchen011@gmail.com"
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=wlvlQUgAAAAJ&hl=en
@@ -55,7 +60,7 @@ social:
 #    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'xchen011@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
