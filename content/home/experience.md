@@ -22,29 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Machine Learning Engineer
+    company: Ernst & Young
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: EY-logo
+    location: Boston, MA
+    date_start: '2019-11-11'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Scientist
+    company: Deluxe Entertainment Service Group
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: deluxe-logo
+    location: San Diego, California
+    date_start: '2018-07-02'
+    date_end: '2018-10-31'
 
+  - title: Data Scientist Intern
+    company: Deluxe Entertainment Service Group
+    company_url: ''
+    company_logo: deluxe-logo
+    location: San Diego, California
+    date_start: '2018-01-22'
+    date_end: '2018-07-01' 
+
+  - title: Research Assistant 
+    company: Old Dominion University
+    company_url: ''
+    company_logo: odu-logo
+    location: Norfolk, Virginia
+    date_start: '2013-08-19'
+    date_end: '2017-12-15'
+ 
 design:
   columns: '2'
 ---
