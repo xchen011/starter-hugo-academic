@@ -31,6 +31,8 @@ content:
       tag: Deep Learning
     - name: Thermoelectrics
       tag: Themoelectrics
+    - name: Optical pH Sensor
+      tag: Optical pH Sensor
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

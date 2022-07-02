@@ -60,8 +60,6 @@ locale:
 # Site features
 
 features:
-  syntax_highlighter:
-    enable: true
     extra_languages:
       - r
       - latex
