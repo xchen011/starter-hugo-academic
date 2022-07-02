@@ -30,7 +30,7 @@ content:
     - name: Deep Learning
       tag: Deep Learning
     - name: Thermoelectrics
-      tag: Themoelectrics
+      tag: Thermoelectrics
     - name: Optical pH Sensor
       tag: Optical pH Sensor
 
@@ -43,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

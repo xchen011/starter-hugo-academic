@@ -14,8 +14,7 @@ organizations:
     url: https://www.ey.com/en_us
 
 # Short bio (displayed in user profile at end of posts)
-bio: As a machine learning engineer at Ernst & Young LLP, I have been working on leveraging AI/ML skills to solve business problems in a variety of domain fields. My experience involved the entire MLOps stack ranging from designing and implementing AI/ML architecture, ML/DL modeling and model deployment, and ML pipeline automation. My interests in data science lie on the more technical side – specifically Machine Learning, Deep Learning, Natural Language Processing, Transformer models, and Recommendation system. In particular, I’ve worked on the sequential commendation model for the next purchase prediction. Some of my non-work hobbies include loving furry animals and road-trip. She is the owner of two cats. 
-
+bio: My interests include Natural Language Processing, transformer models, recommendation system, and sequence modeling.
 # Interests to show in About widget
 interests:
   - Deep Learning
